@@ -1,0 +1,246 @@
+ifoutDiscards,ifInDiscardsLowLow,ipOutDiscards,ipInDiscards,icmpOutDestUnreachs,Class
+Low,Low,Very Low,Very Low,Low,Normal
+Low,Low,Very Low,Very Low,Medium,Normal
+Low,Low,Very Low,Very Low,Large,Normal
+Low,Low,Very Low,Medium,Low,Normal
+Low,Low,Very Low,Medium,Medium,Normal
+Low,Low,Very Low,Medium,Large,Normal
+Low,Low,Very Low,Large,Low,Normal
+Low,Low,Very Low,Large,Medium,Normal
+Low,Low,Very Low,Large,Large,Normal
+Low,Low,Medium,Very Low,Low,Normal
+Low,Low,Medium,Very Low,Medium,Normal
+Low,Low,Medium,Very Low,Large,Normal
+Low,Low,Medium,Medium,Low,Normal
+Low,Low,Medium,Medium,Medium,Normal
+Low,Low,Medium,Medium,Large,Normal
+Low,Low,Medium,Large,Low,Normal
+Low,Low,Medium,Large,Medium,Normal
+Low,Low,Medium,Large,Large,Normal
+Low,Low,Very Large,Very Low,Low,Normal
+Low,Low,Very Large,Very Low,Medium,Up-Normal
+Low,Low,Very Large,Very Low,Large,Up-Normal
+Low,Low,Very Large,Medium,Low,Up-Normal
+Low,Low,Very Large,Medium,Medium,Up-Normal
+Low,Low,Very Large,Medium,Large,Up-Normal
+Low,Low,Very Large,Large,Low,Up-Normal
+Low,Low,Very Large,Large,Medium,Up-Normal
+Low,Low,Very Large,Large,Large,Up-Normal
+Low,Medium,Very Low,Very Low,Low,Up-Normal
+Low,Medium,Very Low,Very Low,Medium,Up-Normal
+Low,Medium,Very Low,Very Low,Large,Up-Normal
+Low,Medium,Very Low,Medium,Low,Up-Normal
+Low,Medium,Very Low,Medium,Medium,Up-Normal
+Low,Medium,Very Low,Medium,Large,Up-Normal
+Low,Medium,Very Low,Large,Low,Up-Normal
+Low,Medium,Very Low,Large,Medium,Up-Normal
+Low,Medium,Very Low,Large,Large,Up-Normal
+Low,Medium,Medium,Very Low,Low,Up-Normal
+Low,Medium,Medium,Very Low,Medium,Up-Normal
+Low,Medium,Medium,Very Low,Large,Up-Normal
+Low,Medium,Medium,Medium,Low,Up-Normal
+Low,Medium,Medium,Medium,Medium,Up-Normal
+Low,Medium,Medium,Medium,Large,Up-Normal
+Low,Medium,Medium,Large,Low,Up-Normal
+Low,Medium,Medium,Large,Medium,Up-Normal
+Low,Medium,Medium,Large,Large,Up-Normal
+Low,Medium,Very Large,Very Low,Low,Normal
+Low,Medium,Very Large,Very Low,Medium,Up-Normal
+Low,Medium,Very Large,Very Low,Large,Up-Normal
+Low,Medium,Very Large,Medium,Low,Up-Normal
+Low,Medium,Very Large,Medium,Medium,Up-Normal
+Low,Medium,Very Large,Medium,Large,Up-Normal
+Low,Medium,Very Large,Large,Low,Up-Normal
+Low,Medium,Very Large,Large,Medium,Up-Normal
+Low,Medium,Very Large,Large,Large,Up-Normal
+Low,Large,Very Low,Very Low,Low,Up-Normal
+Low,Large,Very Low,Very Low,Medium,Up-Normal
+Low,Large,Very Low,Very Low,Large,Up-Normal
+Low,Large,Very Low,Medium,Low,Up-Normal
+Low,Large,Very Low,Medium,Medium,Up-Normal
+Low,Large,Very Low,Medium,Large,Up-Normal
+Low,Large,Very Low,Large,Low,Up-Normal
+Low,Large,Very Low,Large,Medium,Up-Normal
+Low,Large,Very Low,Large,Large,Up-Normal
+Low,Large,Medium,Very Low,Low,Up-Normal
+Low,Large,Medium,Very Low,Medium,Up-Normal
+Low,Large,Medium,Very Low,Large,Up-Normal
+Low,Large,Medium,Medium,Low,Up-Normal
+Low,Large,Medium,Medium,Medium,Up-Normal
+Low,Large,Medium,Medium,Large,Up-Normal
+Low,Large,Medium,Large,Low,Up-Normal
+Low,Large,Medium,Large,Medium,Up-Normal
+Low,Large,Medium,Large,Large,Up-Normal
+Low,Large,Very Large,Very Low,Low,Up-Normal
+Low,Large,Very Large,Very Low,Medium,Up-Normal
+Low,Large,Very Large,Very Low,Large,Up-Normal
+Low,Large,Very Large,Medium,Low,Up-Normal
+Low,Large,Very Large,Medium,Medium,Up-Normal
+Low,Large,Very Large,Medium,Large,Up-Normal
+Low,Large,Very Large,Large,Low,Up-Normal
+Low,Large,Very Large,Large,Medium,Up-Normal
+Low,Large,Very Large,Large,Large,Up-Normal
+Medium,Low,Very Low,Very Low,Low,Up-Normal
+Medium,Low,Very Low,Very Low,Medium,Up-Normal
+Medium,Low,Very Low,Very Low,Large,Up-Normal
+Medium,Low,Very Low,Medium,Low,Up-Normal
+Medium,Low,Very Low,Medium,Medium,Up-Normal
+Medium,Low,Very Low,Medium,Large,Up-Normal
+Medium,Low,Very Low,Large,Low,Up-Normal
+Medium,Low,Very Low,Large,Medium,Up-Normal
+Medium,Low,Very Low,Large,Large,Up-Normal
+Medium,Low,Medium,Very Low,Low,Up-Normal
+Medium,Low,Medium,Very Low,Medium,Up-Normal
+Medium,Low,Medium,Very Low,Large,Up-Normal
+Medium,Low,Medium,Medium,Low,Up-Normal
+Medium,Low,Medium,Medium,Medium,Up-Normal
+Medium,Low,Medium,Medium,Large,Up-Normal
+Medium,Low,Medium,Large,Low,Up-Normal
+Medium,Low,Medium,Large,Medium,Up-Normal
+Medium,Low,Medium,Large,Large,Up-Normal
+Medium,Low,Very Large,Very Low,Low,Normal
+Medium,Low,Very Large,Very Low,Medium,Up-Normal
+Medium,Low,Very Large,Very Low,Large,Up-Normal
+Medium,Low,Very Large,Medium,Low,Up-Normal
+Medium,Low,Very Large,Medium,Medium,Up-Normal
+Medium,Low,Very Large,Medium,Large,Up-Normal
+Medium,Low,Very Large,Large,Low,Up-Normal
+Medium,Low,Very Large,Large,Medium,Up-Normal
+Medium,Low,Very Large,Large,Large,Up-Normal
+Medium,Medium,Very Low,Very Low,Low,Up-Normal
+Medium,Medium,Very Low,Very Low,Medium,Up-Normal
+Medium,Medium,Very Low,Very Low,Large,Up-Normal
+Medium,Medium,Very Low,Medium,Low,Up-Normal
+Medium,Medium,Very Low,Medium,Medium,Up-Normal
+Medium,Medium,Very Low,Medium,Large,Up-Normal
+Medium,Medium,Very Low,Large,Low,Up-Normal
+Medium,Medium,Very Low,Large,Medium,Up-Normal
+Medium,Medium,Very Low,Large,Large,Up-Normal
+Medium,Medium,Medium,Very Low,Low,Up-Normal
+Medium,Medium,Medium,Very Low,Medium,Up-Normal
+Medium,Medium,Medium,Very Low,Large,Up-Normal
+Medium,Medium,Medium,Medium,Low,Up-Normal
+Medium,Medium,Medium,Medium,Medium,Up-Normal
+Medium,Medium,Medium,Medium,Large,Up-Normal
+Medium,Medium,Medium,Large,Low,Up-Normal
+Medium,Medium,Medium,Large,Medium,Up-Normal
+Medium,Medium,Medium,Large,Large,Up-Normal
+Medium,Medium,Very Large,Very Low,Low,Normal
+Medium,Medium,Very Large,Very Low,Medium,Up-Normal
+Medium,Medium,Very Large,Very Low,Large,Up-Normal
+Medium,Medium,Very Large,Medium,Low,Up-Normal
+Medium,Medium,Very Large,Medium,Medium,Up-Normal
+Medium,Medium,Very Large,Medium,Large,Up-Normal
+Medium,Medium,Very Large,Large,Low,Up-Normal
+Medium,Medium,Very Large,Large,Medium,Up-Normal
+Medium,Medium,Very Large,Large,Large,Up-Normal
+Medium,Large,Very Low,Very Low,Low,Up-Normal
+Medium,Large,Very Low,Very Low,Medium,Up-Normal
+Medium,Large,Very Low,Very Low,Large,Up-Normal
+Medium,Large,Very Low,Medium,Low,Up-Normal
+Medium,Large,Very Low,Medium,Medium,Up-Normal
+Medium,Large,Very Low,Medium,Large,Up-Normal
+Medium,Large,Very Low,Large,Low,Up-Normal
+Medium,Large,Very Low,Large,Medium,Up-Normal
+Medium,Large,Very Low,Large,Large,Up-Normal
+Medium,Large,Medium,Very Low,Low,Up-Normal
+Medium,Large,Medium,Very Low,Medium,Up-Normal
+Medium,Large,Medium,Very Low,Large,Up-Normal
+Medium,Large,Medium,Medium,Low,Up-Normal
+Medium,Large,Medium,Medium,Medium,Up-Normal
+Medium,Large,Medium,Medium,Large,Up-Normal
+Medium,Large,Medium,Large,Low,Up-Normal
+Medium,Large,Medium,Large,Medium,Up-Normal
+Medium,Large,Medium,Large,Large,Up-Normal
+Medium,Large,Very Large,Very Low,Low,Up-Normal
+Medium,Large,Very Large,Very Low,Medium,Up-Normal
+Medium,Large,Very Large,Very Low,Large,Up-Normal
+Medium,Large,Very Large,Medium,Low,Up-Normal
+Medium,Large,Very Large,Medium,Medium,Up-Normal
+Medium,Large,Very Large,Medium,Large,Up-Normal
+Medium,Large,Very Large,Large,Low,Up-Normal
+Medium,Large,Very Large,Large,Medium,Up-Normal
+Medium,Large,Very Large,Large,Large,Up-Normal
+Large,Low,Very Low,Very Low,Low,Up-Normal
+Large,Low,Very Low,Very Low,Medium,Up-Normal
+Large,Low,Very Low,Very Low,Large,Up-Normal
+Large,Low,Very Low,Medium,Low,Up-Normal
+Large,Low,Very Low,Medium,Medium,Up-Normal
+Large,Low,Very Low,Medium,Large,Up-Normal
+Large,Low,Very Low,Large,Low,Up-Normal
+Large,Low,Very Low,Large,Medium,Up-Normal
+Large,Low,Very Low,Large,Large,Up-Normal
+Large,Low,Medium,Very Low,Low,Up-Normal
+Large,Low,Medium,Very Low,Medium,Up-Normal
+Large,Low,Medium,Very Low,Large,Up-Normal
+Large,Low,Medium,Medium,Low,Up-Normal
+Large,Low,Medium,Medium,Medium,Up-Normal
+Large,Low,Medium,Medium,Large,Up-Normal
+Large,Low,Medium,Large,Low,Up-Normal
+Large,Low,Medium,Large,Medium,Up-Normal
+Large,Low,Medium,Large,Large,Up-Normal
+Large,Low,Very Large,Very Low,Low,Up-Normal
+Large,Low,Very Large,Very Low,Medium,Up-Normal
+Large,Low,Very Large,Very Low,Large,Up-Normal
+Large,Low,Very Large,Medium,Low,Up-Normal
+Large,Low,Very Large,Medium,Medium,Up-Normal
+Large,Low,Very Large,Medium,Large,Up-Normal
+Large,Low,Very Large,Large,Low,Up-Normal
+Large,Low,Very Large,Large,Medium,Up-Normal
+Large,Low,Very Large,Large,Large,Up-Normal
+Large,Medium,Very Low,Very Low,Low,Up-Normal
+Large,Medium,Very Low,Very Low,Medium,Up-Normal
+Large,Medium,Very Low,Very Low,Large,Up-Normal
+Large,Medium,Very Low,Medium,Low,Up-Normal
+Large,Medium,Very Low,Medium,Medium,Up-Normal
+Large,Medium,Very Low,Medium,Large,Up-Normal
+Large,Medium,Very Low,Large,Low,Up-Normal
+Large,Medium,Very Low,Large,Medium,Up-Normal
+Large,Medium,Very Low,Large,Large,Up-Normal
+Large,Medium,Medium,Very Low,Low,Up-Normal
+Large,Medium,Medium,Very Low,Medium,Up-Normal
+Large,Medium,Medium,Very Low,Large,Up-Normal
+Large,Medium,Medium,Medium,Low,Up-Normal
+Large,Medium,Medium,Medium,Medium,Up-Normal
+Large,Medium,Medium,Medium,Large,Up-Normal
+Large,Medium,Medium,Large,Low,Up-Normal
+Large,Medium,Medium,Large,Medium,Up-Normal
+Large,Medium,Medium,Large,Large,Up-Normal
+Large,Medium,Very Large,Very Low,Low,Up-Normal
+Large,Medium,Very Large,Very Low,Medium,Up-Normal
+Large,Medium,Very Large,Very Low,Large,Up-Normal
+Large,Medium,Very Large,Medium,Low,Up-Normal
+Large,Medium,Very Large,Medium,Medium,Up-Normal
+Large,Medium,Very Large,Medium,Large,Up-Normal
+Large,Medium,Very Large,Large,Low,Up-Normal
+Large,Medium,Very Large,Large,Medium,Up-Normal
+Large,Medium,Very Large,Large,Large,Up-Normal
+Large,Large,Very Low,Very Low,Low,Up-Normal
+Large,Large,Very Low,Very Low,Medium,Up-Normal
+Large,Large,Very Low,Very Low,Large,Up-Normal
+Large,Large,Very Low,Medium,Low,Up-Normal
+Large,Large,Very Low,Medium,Medium,Normal
+Large,Large,Very Low,Medium,Large,Up-Normal
+Large,Large,Very Low,Large,Low,Up-Normal
+Large,Large,Very Low,Large,Medium,Normal
+Large,Large,Very Low,Large,Large,Up-Normal
+Large,Large,Medium,Very Low,Low,Up-Normal
+Large,Large,Medium,Very Low,Medium,Up-Normal
+Large,Large,Medium,Very Low,Large,Up-Normal
+Large,Large,Medium,Medium,Low,Up-Normal
+Large,Large,Medium,Medium,Medium,Up-Normal
+Large,Large,Medium,Medium,Large,Up-Normal
+Large,Large,Medium,Large,Low,Up-Normal
+Large,Large,Medium,Large,Medium,Up-Normal
+Large,Large,Medium,Large,Large,Up-Normal
+Large,Large,Very Large,Very Low,Low,Up-Normal
+Large,Large,Very Large,Very Low,Medium,Up-Normal
+Large,Large,Very Large,Very Low,Large,Up-Normal
+Large,Large,Very Large,Medium,Low,Up-Normal
+Large,Large,Very Large,Medium,Medium,Up-Normal
+Large,Large,Very Large,Medium,Large,Up-Normal
+Large,Large,Very Large,Large,Low,Up-Normal
+Large,Large,Very Large,Large,Medium,Up-Normal
+Large,Large,Very Large,Large,Large,Up-Normal
+Low,Low,Large,Low,Large,Normal
+Low,Low,Low,Low,Large,Up-Normal
